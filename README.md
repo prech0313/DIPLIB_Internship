@@ -1,5 +1,5 @@
 # DIPLIB_Internship
-Library installation need to done first
+Library installation needs to be done first
 import diplib 
 import numpy 
 import cv2
